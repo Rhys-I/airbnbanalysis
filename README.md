@@ -49,7 +49,15 @@ This project demonstrates how exploratory data analysis and clustering can uncov
 
 ## 📎 Tools Used
 
-- **Python** – Pandas, Matplotlib, Seaborn, Scikit-learn  
-- **Tableau** – Interactive dashboard & maps  
+- **Python Libraries**:  
+  - `pandas` – data manipulation  
+  - `numpy` – numerical operations  
+  - `matplotlib`, `seaborn` – visualizations  
+  - `scikit-learn` – regression and clustering (K-Means)  
+  - `statsmodels` – statistical modeling and regression diagnostics  
+  - `folium` – interactive geographic mapping  
+  - `plotly` – advanced visualizations  
+
 - **Jupyter Notebook** – Analysis workflow  
+- **Tableau** – Final dashboard visualizations  
 - **Git** – Version control  
