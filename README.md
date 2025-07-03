@@ -33,6 +33,13 @@ Using the NYC Airbnb Open Data set, I conducted:
 
 ---
 
+## 📈 Tableau Dashboard
+
+You can explore the interactive data story here:  
+🔗 [NYC Airbnb Tableau Dashboard](https://public.tableau.com/app/profile/rhys.ingalls/viz/NYCAirbnbDataAnalysis_17507221661720/NYCAirBnbAnalysis?publish=yes)
+
+---
+
 ## ✅ Next Steps
 
 - Include seasonal or time-based price trends  
