@@ -6,10 +6,12 @@ This project explores short-term rental listings in New York City using data-dri
 
 ## 📁 Folder Structure
 
+```
 /data             # Cleaned data  
 /notebooks        # Jupyter notebooks used for analysis  
-/visuals          # Visualizations of Key Findings 
-/README.md        # This file  
+/visuals          # Visualizations of key findings  
+/README.md        # Project documentation  
+```
 
 ---
 
@@ -17,54 +19,61 @@ This project explores short-term rental listings in New York City using data-dri
 
 Using the NYC Airbnb Open Data set, I conducted:
 
-- Exploratory Data Analysis (EDA) to profile listings by borough, room type, and host status  
-- Regression analysis to explore the relationship between accommodates and revenue  
-- K-Means clustering to segment listings by pricing and location features  
-- Visual storytelling in Tableau to present findings interactively  
+- **Exploratory Data Analysis (EDA)** to profile listings by borough, room type, and host status  
+- **Regression analysis** to examine the relationship between accommodates and revenue  
+- **K-Means clustering** to segment listings by pricing and location features  
+- **Interactive dashboarding in Tableau** to present key findings visually  
 
 ---
 
 ## 📊 Key Findings
 
-- 💰 **Superhosts earn more**: Superhost listings tend to charge higher prices and have higher occupancy.  
-- 🗺️ **Location drives pricing**: Manhattan and Brooklyn listings command premium rates compared to Queens or the Bronx.  
-- 🛏️ **Accommodates ≠ Revenue**: More guests doesn’t always mean more revenue — diminishing returns kick in for larger properties.  
-- 📌 **Clusters revealed segments**: K-means clustering highlighted 3 main listing types: budget private rooms, mid-range entire homes, and high-end properties.
+- 💰 **Superhosts earn more** — Superhost listings tend to charge higher prices and maintain higher occupancy rates.  
+- 🗺️ **Location drives pricing** — Manhattan and Brooklyn listings command premium rates compared to Queens or the Bronx.  
+- 🛏️ **Accommodates ≠ Revenue** — Hosting more guests doesn’t always lead to more revenue; diminishing returns often occur in larger properties.  
+- 📌 **Clusters reveal market segments** — K-Means clustering identified three key listing types: budget private rooms, mid-range entire homes, and high-end luxury properties.
 
 ---
 
 ## 📈 Tableau Dashboard
 
-You can explore the interactive data story here:  
+Explore the interactive dashboard here:  
 🔗 [NYC Airbnb Tableau Dashboard](https://public.tableau.com/app/profile/rhys.ingalls/viz/NYCAirbnbDataAnalysis_17507221661720/NYCAirBnbAnalysis?publish=yes)
+
+---
+
+## 📂 GitHub Repository
+
+View the full project and code on GitHub:  
+🔗 [https://github.com/Rhys-I/airbnbanalysis](https://github.com/Rhys-I/airbnbanalysis)
 
 ---
 
 ## ✅ Next Steps
 
-- Include seasonal or time-based price trends  
-- Integrate sentiment analysis from review texts  
-- Compare NYC listings to other major cities for benchmarking  
+- Analyze **seasonal and time-based trends** in pricing and occupancy  
+- Conduct **sentiment analysis** on guest reviews to assess satisfaction drivers  
+- **Benchmark** NYC listings against other major cities for broader market insights  
 
 ---
 
 ## 🧠 Takeaways
 
-This project demonstrates how exploratory data analysis and clustering can uncover real business insights from messy real-world data. By combining statistical modeling with clear visual storytelling, we can provide actionable recommendations for hosts, property managers, and investors in competitive rental markets.
+This project demonstrates how exploratory data analysis and clustering techniques can generate actionable business insights from real-world data. By combining statistical modeling with clear, visual storytelling, we provide data-driven recommendations for hosts, investors, and property managers operating in competitive short-term rental markets.
 
 ---
 
 ## 📎 Tools Used
 
-- **Python Libraries**:  
-  - `pandas` – data manipulation  
+- **Python Libraries**  
+  - `pandas` – data cleaning and manipulation  
   - `numpy` – numerical operations  
   - `matplotlib`, `seaborn` – visualizations  
-  - `scikit-learn` – regression and clustering (K-Means)  
-  - `statsmodels` – statistical modeling and regression diagnostics  
-  - `folium` – interactive geographic mapping  
-  - `plotly` – advanced visualizations  
+  - `scikit-learn` – K-Means clustering and predictive modeling  
+  - `statsmodels` – regression analysis and diagnostics  
+  - `folium` – geographic visualizations  
+  - `plotly` – interactive plotting  
 
-- **Jupyter Notebook** – Analysis workflow  
-- **Tableau** – Final dashboard visualizations  
-- **Git** – Version control  
+- **Jupyter Notebook** – End-to-end workflow  
+- **Tableau Public** – Interactive dashboard creation  
+- **Git & GitHub** – Version control and documentation  
