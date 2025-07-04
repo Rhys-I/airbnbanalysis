@@ -6,9 +6,9 @@ This project explores short-term rental listings in New York City using data-dri
 
 ## 📁 Folder Structure
 
-/data             # CSVs or cleaned data  
+/data             # Cleaned data  
 /notebooks        # Jupyter notebooks used for analysis  
-/visuals          # Images exported from Python or Tableau  
+/visuals          # Choropleth Map – Average Price by Neighborhood  
 README.md         # This file  
 
 ---
