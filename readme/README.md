@@ -8,9 +8,9 @@ This project explores short-term rental listings in New York City using data-dri
 
 ```
 /data             # Cleaned data  
-/notebooks        # Jupyter notebooks used for analysis  
-/visualizations   # Visualizations of key findings  
-/README.md        # Project documentation  
+/notebooks        # Jupyter notebooks used for analysis    
+/readme           # Project documentation
+/visualizations   # Visualizations of key findings 
 ```
 
 ---
