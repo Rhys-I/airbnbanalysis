@@ -16,9 +16,9 @@ This project explores short-term rental listings in New York City using data-dri
 
 /data             # CSVs or cleaned data  
 /notebooks        # Jupyter notebooks used for analysis  
-/visuals          # Images exported from Python or Tableau  
 /presentation     # Case Study Presentation
-README.md         # This file  
+/visuals          # Images exported from Python or Tableau  
+ README.md        # This file  
 
 ---
 
