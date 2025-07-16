@@ -14,11 +14,11 @@ This project explores short-term rental listings in New York City using data-dri
 - Can we segment Airbnb listings into meaningful clusters?
 ## 📁 Folder Structure
 
-/data             # CSVs or cleaned data  
-/notebooks        # Jupyter notebooks used for analysis  
-/presentation     # Case Study Presentation
-/visuals          # Images exported from Python or Tableau  
- README.md        # This file  
+/data          # Raw and cleaned datasets  
+/notebooks     # Jupyter notebooks used for analysis  
+/presentation  # Final case study presentation  
+/visuals       # Exported visualizations  
+README.md      # Project documentation  
 
 ---
 
